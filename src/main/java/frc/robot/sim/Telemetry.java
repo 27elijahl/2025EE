@@ -12,6 +12,9 @@ import edu.wpi.first.wpilibj2.command.button.CommandXboxController;
 import frc.robot.Constants;
 import frc.robot.subsystems.EndEffector;
 
+/**
+ * Do not modify!
+ */
 public class Telemetry 
 {
     private static NetworkTableInstance instance = NetworkTableInstance.getDefault();

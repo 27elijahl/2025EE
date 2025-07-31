@@ -7,9 +7,7 @@ package frc.robot;
 import edu.wpi.first.wpilibj.TimedRobot;
 import edu.wpi.first.wpilibj2.command.Command;
 import edu.wpi.first.wpilibj2.command.CommandScheduler;
-import frc.robot.commands.endeffector.Intake;
 import frc.robot.sim.Telemetry;
-import frc.robot.subsystems.EndEffector;
 
 public class Robot extends TimedRobot 
 {

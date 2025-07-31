@@ -7,10 +7,6 @@ package frc.robot;
 import edu.wpi.first.wpilibj2.command.Command;
 import edu.wpi.first.wpilibj2.command.Commands;
 import edu.wpi.first.wpilibj2.command.button.CommandXboxController;
-import frc.robot.commands.endeffector.Intake;
-import frc.robot.commands.endeffector.ManualScore;
-import frc.robot.commands.endeffector.Score;
-import frc.robot.subsystems.EndEffector;
 
 public class RobotContainer 
 {

@@ -11,6 +11,9 @@ import edu.wpi.first.units.measure.Distance;
 import edu.wpi.first.wpilibj2.command.SubsystemBase;
 import frc.robot.Constants;
 
+/**
+ * Do not modify!
+ */
 public abstract class EndEffectorBase extends SubsystemBase
 {
     private double leftFrontCoralLocation; // pixels from s
